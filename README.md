@@ -11,6 +11,8 @@ Simple & beginner-friendly Python code.
 Reliable (uses yt-dlp: actively maintained fork of youtube-dl).
 
 🛠️ Technologies Used
+
 -Python 3.x
+
 -yt-dlp
 
