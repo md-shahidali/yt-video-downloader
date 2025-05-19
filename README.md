@@ -1,7 +1,7 @@
 📥 YouTube Video Downloader (Python using yt-dlp)
 A simple and efficient Python script to download YouTube videos in the best quality using the yt-dlp library. This tool helps you quickly download videos by just providing the URL.
 
-🚀 Features
+🚀 Features:
 
 Download YouTube videos by URL.
 
